@@ -1,1 +1,1 @@
-Meine Lösung und Dokumenation für den BWINF 2023.
+Meine Lösungen und Dokumenationen für den BWINF 2023 (1-Runde)
